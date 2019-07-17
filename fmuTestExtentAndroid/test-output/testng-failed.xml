@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.PublicDashboardAndroid">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="init"/>
+          <include name="getResult"/>
+          <include name="clickOn_Li_e_concordo"/>
+        </methods>
+      </class> <!-- com.moofwd.fmuTestExtent.fmuTestExtentAndroid.PublicDashboardAndroid -->
+      <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.FAQAndroid">
+        <methods>
+          <include name="setUp"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.moofwd.fmuTestExtent.fmuTestExtentAndroid.FAQAndroid -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

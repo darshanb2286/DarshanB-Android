@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+     <classes>
+     <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.PublicDashboardAndroid"/>
+      <!-- <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.AvisosAndroid"/> -->
+      <!-- <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.ContactUsAndroid"/>
+     <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.DocumentsAndroid"/>
+     <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.EventosAndroid"/> -->
+     <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.FAQAndroid"/>
+    <!--  <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.FinanceAndroid"/>
+     <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.NoticiasAndroid"/>
+     <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.NotificationsAndroid"/> 
+     <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.PerfilAndroid"/>
+     <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.Redes_SocialAndroid"/>
+     <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.ServicesAndroid"/> -->
+     <!-- <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.SettingsAndroid"/>
+     <class name="com.moofwd.fmuTestExtent.fmuTestExtentAndroid.SPTransAndroid"/> -->
+      
+     <!--  <class name="com.moofwd.Base.TestBase"/> -->   
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
